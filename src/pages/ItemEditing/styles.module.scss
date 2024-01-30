@@ -1,0 +1,16 @@
+.itemEditing {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+
+    .title {
+        max-width: 50%;
+        font-weight: 300;
+        
+    }
+
+    .form {
+        display: flex;
+        justify-content: center;
+    }
+}

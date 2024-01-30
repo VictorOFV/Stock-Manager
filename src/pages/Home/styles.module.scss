@@ -1,0 +1,18 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+
+    .boxInfos {
+        display: flex;
+        justify-content: space-between;
+        gap: 1rem;
+    }
+
+    .tables {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: start;
+        gap: 1rem;
+    }
+}

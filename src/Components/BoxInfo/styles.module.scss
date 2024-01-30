@@ -1,0 +1,20 @@
+.boxInfo {
+    background-color: #1C1A1D;
+    color: #fff;
+    padding: 2rem;
+    width: 25rem;
+    display: flex;
+    flex-direction: column;
+    border-radius: 7px;
+
+    .title {
+        font-size: 1.3rem;
+        text-align: center;
+    }
+
+    .value {
+        text-align: center;
+        font-size: 4rem;
+        margin-top: 1.5rem;
+    }
+}

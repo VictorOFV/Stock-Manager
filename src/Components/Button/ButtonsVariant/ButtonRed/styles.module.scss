@@ -1,0 +1,9 @@
+.buttonBlue {
+    button {
+        background-color: #FF5258;
+
+        &:hover {
+            background-color: #cb3f44;
+        }
+    }
+}

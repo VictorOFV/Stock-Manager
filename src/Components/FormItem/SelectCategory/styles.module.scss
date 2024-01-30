@@ -1,0 +1,17 @@
+.selectContainer {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    
+    select {
+        width: 18rem;
+        padding: .8rem;
+        font-size: 1rem;
+        outline: none;
+        background-color: #1C1A1D;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        position: relative;
+    }
+}

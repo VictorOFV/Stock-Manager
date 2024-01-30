@@ -1,0 +1,15 @@
+.form {
+    width: min-content;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+    .inputs {
+        display: flex;
+        gap: 1.5rem;
+    }
+
+    button {
+        width: 8rem;
+    }
+}

@@ -1,0 +1,23 @@
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    
+    th {
+        background-color: #1C1A1D;
+        text-align: start;
+        padding: 2rem;
+        font-size: 1.3rem;
+    }
+
+    td {
+        padding: 1rem 2rem;
+        font-size: 1.1rem;
+    }
+
+    tr {
+        transition: .3s;
+        &:hover {
+            background-color: #1c1a1d8c;
+        }
+    }
+}
